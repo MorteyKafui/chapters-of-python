@@ -1,4 +1,4 @@
-# CHAPTER ONE
+# CHAPTER 1
 
 ## Variables
 
