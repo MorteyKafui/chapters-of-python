@@ -340,3 +340,5 @@ print(s)
 ```
 
 Using these `f-string` literals, you can embed Python expressions inside a string literal using curly braces. They are called _f-strings_ because you get a formatted string literal by prefixing a string with the letter `f`. So, when we have a string literal prefixed with `f`, any variable inside curly braces is substituted with its value. You can see that this style is much clearer than the previous two. It is the simplest one because you can directly insert the names inside the string literal.
+
+## The End

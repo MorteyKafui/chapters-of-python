@@ -4,8 +4,7 @@
 
 A variables is like a container that holds values.
 They can also be referred to as identifiers or reference to a value in memory.
-An example of how to declare a variable in **_Python_** is this `username = "Bob"`. Here **_username_** is the variable or identifier to the value **_Bob_** in the computer's memory.
-This means that the variable or identifier **_username_** serves as a reference or pointer to the value **_Bob_** in memory.
+An example of how to declare a variable in **_Python_** is this `username = "Bob"`. Here **_username_** is the variable or identifier to the value **_Bob_** in the computer's memory. This means that the variable or identifier **_username_** serves as a reference or pointer to the value **_Bob_** in memory.
 Another example is `age = 20`. Here the **_age_** identifier is a pointer to the value **_20_** in the computer's memory.
 There are some rules in naming variables or identifiers in Python.
 These are:
@@ -429,7 +428,7 @@ Most of the time, we have to write programs that interact with the user and beha
 The built-in function `input()` can be used to get keyboard input from the user. When the `input()` function executes, the program is paused, and the user is expected to enter some text on the screen. Example:
 
 ```python
-username = print('Enter user name : ', end='')
+username = input('Enter user name : ', end='')
 print('You entered', username)
 
 ```
