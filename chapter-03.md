@@ -1,4 +1,4 @@
-# CHAPTER 3
+# CHAPTER 3 - List and Tuples
 
 Lists are ordered collections of items. They can be considered similar to arrays in other languages. They are more flexible and powerful as they do not have fixed sizes and can store elements of different types.
 
